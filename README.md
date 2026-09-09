@@ -2,4 +2,4 @@
 
 This is repo for my portfolio
 
-# This is my first chnage
+# This is my first change
